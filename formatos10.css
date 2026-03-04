@@ -5,7 +5,7 @@ background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
 font-family: Arial, Helvetica, sans-serif;
-color: rgb(0, 0, 0);
+color: #fafafa;
 margin: 0;
 text-align: center;
 }
@@ -19,9 +19,9 @@ text-align: center;
 }
 
 .card {
-    border: 1px solid #ccc;
+    border: 1px solid #f3ff06;
     padding: 15px;
-    background-color: rgba(171, 167, 167, 0.229);
+    background-color: rgba(182, 178, 178, 0.229);
 }
 
 .card img{ 
